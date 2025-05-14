@@ -6,7 +6,7 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 
 ## Tools Required
 
-### Cadence EDA Suite
+###  Cadence EDA Suite
 - **Virtuoso Schematic Editor** (for circuit design)
 - **Spectre Simulator** (for circuit simulation)
 
